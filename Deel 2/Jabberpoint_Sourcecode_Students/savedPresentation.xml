@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE presentation SYSTEM "jabberpoint.dtd">
+<presentation>
+<showtitle>XML-Based Presentation for Jabberpoint</showtitle>
+<slide>
+<title>JabberPoint XML-Demo</title>
+<item kind="text" level="1">Welcome to JabberPoint"text" level="2">Copyright (c) 1996-2000 Ian Darwin"text" level="2">Rewritten by"text" level="2">Gert Florijn, Mark van Elswijk, Marc Evers"text" level="2">and Sylvia Stuurman"text" level="1">Navigation:"text" level="2">Next slide: PgDn or Enter"text" level="2">Previous slide: PgUp or up-arrow"text" level="2">Quit: q or Q</slide>
+<slide>
+<title>An almost empty slide</title>
+<item kind="text" level="1"> </slide>
+<slide>
+<title>Background</title>
+<item kind="text" level="1">Jabberpoint is originally an exercise for the"text" level="1">course Design patterns of the Open university"text" level="1">but is also used for the course OO1 of the NHL-Stenden university of applied sciences"text" level="1"> "image" level="2">logo-woordmerk_ou.gif"image" level="2">logo_nhlstenden.jpg"text" level="1"> "text" level="1">The exercise is developed by the SERC"text" level="1">in collaboration with the Open university "text" level="1"> "image" level="2">serclogo_fc.jpg</slide>
+<slide>
+<title>JabberPoint: Levels and styles</title>
+<item kind="text" level="1">Level 1"text" level="2">Level 2"text" level="1">A Jabberful Point"text" level="2">Level 2 has style 2"text" level="3">This is the style of level 3"text" level="4">And this level 4</slide>
+<slide>
+<title>Last slide</title>
+<item kind="text" level="1">Navigation can also be done via the menu"text" level="2">Load a presentation: File->Open"text" level="1"> "text" level="1">This is the end of the presentation."image" level="1">JabberPoint.jpg"text" level="1">Goodbye.</slide>
+</presentation>
